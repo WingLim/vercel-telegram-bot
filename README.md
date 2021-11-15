@@ -12,7 +12,7 @@ pnpm install
 
 ### Set up webhook
 
-`BOT_TOKEN` and `BOT_WEBHOOK` can be set up in `.env`, you can take `.example.env` as a example.
+`BOT_TOKEN` and `BOT_URL` can be set up in `.env`, you can take `.example.env` as a example.
 
 ```shell
 pnpm run webhook
